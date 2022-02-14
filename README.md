@@ -8,7 +8,7 @@ To Run the App Please follow below Steps:
 
 Step:1
       First Please Install The Node Modules required for the Application to run in both BackEnd & FrontEnd
-          Node Modules can be installed by  npm install command
+          Node Modules can be installed by  npm install command in the terminal at the folder location
 Step:2
       After Installing,To run the Application provide the command
             npm start in FrontEnd
